@@ -12,13 +12,9 @@
 
 ## 🧠 Sobre mim
 
-<div align="center">
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Foco em **IA**, **Redes Neurais**, **Web** e **Banco de Dados**  
-⚡ Unindo **lógica + criatividade** para criar soluções com ritmo
-
-</div>
+Sou o **MikuBR**, estudante de **Análise e Desenvolvimento de Sistemas**.  
+Gosto de fuçar em **IA**, **redes neurais**, **web** e **banco de dados**.  
+Aqui no GitHub eu deixo meus estudos, experimentos e alguns projetos que saem da cabeça para o código.
 
 ---
 
@@ -51,26 +47,18 @@
 
 ## 🌱 Em andamento
 
-<div align="left">
-
-- [x] Fundamentos de **C# e Lógica de Programação**
-- [ ] Estruturas de **Redes Neurais** e Algoritmos de IA
-- [ ] **Modelagem e Consultas SQL**
-- [ ] **Design Web**: HTML, CSS e UX
-
-</div>
+- [x] Aprendendo **C#** e lógica de programação
+- [ ] Estudando **redes neurais** e algoritmos de IA
+- [ ] Praticando **SQL** e modelagem de dados
+- [ ] Aprofundando em **HTML, CSS** e UX
 
 ---
 
 ## 🎯 Objetivos
 
-<div align="center">
-
-- Dominar **IA** e **Desenvolvimento de Sistemas**
-- Criar projetos com propósito, ritmo e precisão
-- Contribuir com **projetos open source**
-
-</div>
+- Evoluir em **IA** e **desenvolvimento de sistemas**
+- Criar projetos úteis, sem pressa e com qualidade
+- Participar mais de **projetos open source**
 
 ---
 
@@ -78,13 +66,13 @@
 
 | Repositório | Descrição |
 |-------------|-----------|
-| [acai-turbo](https://github.com/MikuBR/acai-turbo) | Projeto com foco em performance |
-| [STEAM-AI](https://github.com/MikuBR/STEAM-AI) | Integração Steam com IA |
-| [CanonForge](https://github.com/MikuBR/CanonForge) | Ferramenta de organização |
+| [acai-turbo](https://github.com/MikuBR/acai-turbo) | Testes de performance e velocidade |
+| [STEAM-AI](https://github.com/MikuBR/STEAM-AI) | Integração Steam com inteligência artificial |
+| [CanonForge](https://github.com/MikuBR/CanonForge) | Ferramenta para organizar ideias |
 | [AvalonAnimeManager](https://github.com/MikuBR/AvalonAnimeManager) | Gerenciamento de animes |
-| [JogoDaVelha](https://github.com/MikuBR/JogoDaVelha) | Projeto didático |
-| [JogoDaForca](https://github.com/MikuBR/JogoDaForca) | Projeto didático |
-| [Projeto-Restaurante](https://github.com/MikuBR/Projeto-Restaurante) | Sistema de restaurante |
+| [JogoDaVelha](https://github.com/MikuBR/JogoDaVelha) | Jogo da velha para treinar lógica |
+| [JogoDaForca](https://github.com/MikuBR/JogoDaForca) | Jogo da forca feito na prática |
+| [Projeto-Restaurante](https://github.com/MikuBR/Projeto-Restaurante) | Sistema para restaurante |
 | [Hubble](https://github.com/MikuBR/Hubble) | Projeto Hubble |
 
 ---
@@ -114,31 +102,18 @@
 
 ---
 
-## 💬 Colaboração
+## 🎮 Fora do código
 
-<div align="center">
-
-Aberto a parcerias, feedbacks e novas ideias.  
-Cada linha de código é um passo a mais para alcançar a harmonia perfeita no desenvolvimento.
-
-</div>
-
----
-
-## 🎮 Hobbies
-
-<div align="center">
-
-- 🎮 Jogos e cultura geek
-- 🎵 Música digital, Vocaloid e sintetizadores
+- 🎮 Jogos, cultura geek e uns experimentos malucos
+- 🎵 Música, Vocaloid e sintetizadores
 - 📺 Animes, mangás e ilustração digital
 
-</div>
-
 ---
 
 <div align="center">
 
-✨ Feito com 💜 por **MikuBR**
+Se quiser trocar uma ideia, colaborar ou só dar um alô, o espaço é seu.
+
+✨ Feito por **MikuBR**
 
 </div>
