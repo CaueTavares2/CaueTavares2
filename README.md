@@ -102,8 +102,8 @@ Cada linha de código é um passo a mais para alcançar a harmonia perfeita no d
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikuBR&show_icons=true&theme=tokyonight&title_color=00CFB4&icon_color=00A859&text_color=ffffff&bg_color=0D2025&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikuBR&layout=compact&theme=tokyonight&title_color=00CFB4&text_color=ffffff&bg_color=0D2025&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikuBR" height="220px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikuBR" height="220px" />
 </div>
 
 ---
