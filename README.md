@@ -91,9 +91,9 @@ Cada linha de código é um passo a mais para alcançar a harmonia perfeita no d
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaueTavares2/CaueTavares2/github-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaueTavares2/CaueTavares2/github-pages/github-contribution-grid-snake.svg">
-    <img alt="GitHub Animated Snake Game" src="https://raw.githubusercontent.com/CaueTavares2/CaueTavares2/github-pages/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub Animated Snake Game" src="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -102,8 +102,8 @@ Cada linha de código é um passo a mais para alcançar a harmonia perfeita no d
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaueTavares2&show_icons=true&theme=tokyonight&title_color=00CFB4&icon_color=00A859&text_color=ffffff&bg_color=0D2025&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueTavares2&layout=compact&theme=tokyonight&title_color=00CFB4&text_color=ffffff&bg_color=0D2025&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MikuBR&show_icons=true&theme=tokyonight&title_color=00CFB4&icon_color=00A859&text_color=ffffff&bg_color=0D2025&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikuBR&layout=compact&theme=tokyonight&title_color=00CFB4&text_color=ffffff&bg_color=0D2025&hide_border=true" width="48%" />
 </div>
 
 ---
