@@ -7,12 +7,6 @@
 
 ---
 
-💫 **Bem-vindo ao meu espaço no GitHub!**  
-Aqui compartilho meus estudos e experimentos em computação, IA e design —  
-criando soluções no ritmo perfeito **entre a lógica e a criatividade**.
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-ADS-%20?style=for-the-badge&logo=ReadTheDocs&logoColor=white&color=00CFB4" alt="Estudante ADS">
   <img src="https://img.shields.io/badge/Tema-MikuBR-%20?style=for-the-badge&logo=Vocaloid&logoColor=white&color=00A859" alt="Miku Tema">
@@ -31,71 +25,74 @@ criando soluções no ritmo perfeito **entre a lógica e a criatividade**.
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de tecnologia, focado em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💻 Interesses principais: **Inteligência Artificial**, **Redes Neurais**, **Design de Sites** e **Banco de Dados**.
-- ⚡ Busco unir lógica, criatividade e disciplina — programando o futuro nota por nota.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+💻 Foco em **IA**, **Redes Neurais**, **Web** e **Banco de Dados**  
+⚡ Unindo **lógica + criatividade** para criar soluções com ritmo
 
 ---
 
-## ⚙️ Tecnologias e Interesses
+## ⚙️ Tech Stack
 
-| Categoria | Tecnologias / Áreas |
-|------------|--------------------|
-| 📚 **Linguagens** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/> C# &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/> Python &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> HTML5 |
-| 🧠 **Foco Principal** | Inteligência Artificial, Redes Neurais e Automação |
-| 💾 **Dados** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> SQL & Modelagem de Bancos de Dados |
-| 🎨 **Web & UI** | Front-end, UX/UI Design e Customização de Interfaces |
+<div align="center">
+
+<!-- Linguagens -->
+<p>
+  <img src="https://img.shields.io/badge/C%23-%2300CFB4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2300CFB4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%2300CFB4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%2300CFB4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%2300CFB4?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<!-- Áreas -->
+<p>
+  <img src="https://img.shields.io/badge/IA_%26_Redes_Neurais-%2300A859?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Front--end_%26_UX-%2300A859?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-%2300A859?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-%23F7DF1E?style=for-the-badge&labelColor=0D2025" />
+</p>
+
+</div>
 
 ---
 
-## 🌱 Atualmente Focado em
+## 🌱 Em andamento
 
 - [x] Fundamentos de **C# e Lógica de Programação**
 - [ ] Estruturas de **Redes Neurais** e Algoritmos de IA
 - [ ] **Modelagem e Consultas SQL**
-- [ ] **Design Web** (HTML, CSS e conceitos de UX)
+- [ ] **Design Web**: HTML, CSS e UX
 
 ---
 
 ## 🎯 Objetivos
 
-- Dominar os fundamentos de **IA** e **Desenvolvimento de Sistemas**.
+- Dominar **IA** e **Desenvolvimento de Sistemas**.
 - Criar projetos com propósito, ritmo e precisão.
-- Contribuir futuramente com **projetos open source**.
+- Contribuir com **projetos open source**.
 
 ---
 
-## 🎮 Hobbies e Interesses
+## 🎮 Projetos
 
-- 🎮 Jogos e cultura geek (Terraria, Undertale e sandbox/indies)
-- 🎵 Música digital, Vocaloid e sintetizadores de voz
+| Repositório | Descrição |
+|-------------|-----------|
+| [acai-turbo](https://github.com/MikuBR/acai-turbo) | Projeto com foco em performance/usabilidade |
+| [STEAM-AI](https://github.com/MikuBR/STEAM-AI) | Integração Steam com IA |
+| [CanonForge](https://github.com/MikuBR/CanonForge) | Ferramenta para organização e geração de conteúdo |
+| [AvalonAnimeManager](https://github.com/MikuBR/AvalonAnimeManager) | Gerenciamento de animes |
+| [JogoDaVelha](https://github.com/MikuBR/JogoDaVelha) | Jogo da velha em projeto didático |
+| [JogoDaForca](https://github.com/MikuBR/JogoDaForca) | Jogo da forca em projeto didático |
+| [Projeto-Restaurante](https://github.com/MikuBR/Projeto-Restaurante) | Projeto restaurante |
+| [Hubble](https://github.com/MikuBR/Hubble) | Projeto Hubble |
+
+---
+
+## 🎮 Hobbies
+
+- 🎮 Jogos e cultura geek
+- 🎵 Música digital, Vocaloid e sintetizadores
 - 📺 Animes, mangás e ilustração digital
-
----
-
-## 💬 Colaboração
-
-Aberto a parcerias, feedbacks e novas ideias.  
-Cada linha de código é um passo a mais para alcançar a harmonia perfeita no desenvolvimento.
-
----
-
-## 💡 Mensagem Inspiradora
-
-> “A tecnologia nos permite criar o que antes parecia impossível.  
-> Transformar telas em branco em pura arte e funcionalidade — esse é o nosso palco.”
-
----
-
-## 🎮 Contribuições (Snake Game)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake.svg">
-    <img alt="GitHub Animated Snake Game" src="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
@@ -108,8 +105,20 @@ Cada linha de código é um passo a mais para alcançar a harmonia perfeita no d
 
 ---
 
+## 🕹️ Contribuições (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub Animated Snake Game" src="https://raw.githubusercontent.com/MikuBR/MikuBR/github-pages/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
-✨ Feito com carinho e estilo por **MikuBR**  
+✨ **MikuBR** — código com estilo e propósito  
 
 </div>
